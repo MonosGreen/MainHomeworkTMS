@@ -10,7 +10,7 @@ public class Main {
         staff[1] = worker;
         staff[2] = accountant;
 
-        for (Employee employee : staff){
+        for (Employee employee : staff) {
             employee.printPosition();
         }
     }

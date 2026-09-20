@@ -10,7 +10,7 @@ public class Main {
         figures[4] = new Rectangle(5, 7);
 
         int totalPerimeter = 0;
-        for (Figures currontFigures : figures){
+        for (Figures currontFigures : figures) {
             totalPerimeter += currontFigures.getPerimeter();
         }
         System.out.println("Сумма периметров всех фигур: " + totalPerimeter);
