@@ -1,4 +1,4 @@
-package HomeworkLesson7.TaskFigures;
+package Homework_Lesson_7.TaskFigures;
 
 public class Rectangle implements Figures {
     private double width, height;
