@@ -1,4 +1,4 @@
-package HomeworkLesson7.TaskFigures;
+package Homework_Lesson_7.TaskFigures;
 
 public class Circle implements Figures {
     private double radius;

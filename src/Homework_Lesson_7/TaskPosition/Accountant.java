@@ -1,4 +1,4 @@
-package HomeworkLesson7.TaskPosition;
+package Homework_Lesson_7.TaskPosition;
 
 public class Accountant implements Employee {
     @Override
