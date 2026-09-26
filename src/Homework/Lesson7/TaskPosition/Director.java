@@ -1,4 +1,4 @@
-package Homework_Lesson_7.TaskPosition;
+package Homework.Lesson7.TaskPosition;
 
 public class Director implements Employee {
     @Override

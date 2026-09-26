@@ -1,4 +1,4 @@
-package Homework_Lesson_7.TaskFigures;
+package Homework.Lesson7.TaskFigures;
 
 public class Triangle implements Figures {
     private double a, b, c;

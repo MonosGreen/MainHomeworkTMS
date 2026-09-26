@@ -1,4 +1,4 @@
-package Homework_Lesson_7.TaskFigures;
+package Homework.Lesson7.TaskFigures;
 
 public interface Figures {
     double getArea();

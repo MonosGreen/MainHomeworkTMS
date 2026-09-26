@@ -1,4 +1,4 @@
-package Homework_Lesson_8.Phone;
+package Homework.Lesson8.Phone;
 
 public class Phone {
     String number;

@@ -1,4 +1,4 @@
-package Homework_Lesson_9.Exception;
+package Homework.Lesson9.Exception;
 
 public class Main {
     static void main() {
